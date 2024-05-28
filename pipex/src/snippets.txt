@@ -1,0 +1,11 @@
+	ft_printf(">>>Enter main.\n");
+	ft_printf(">>>Exit main.\n");
+
+	ft_printf("---Check!\n");
+
+	ft_printf("***Print str: %s\n", );
+	ft_printf("***Print num: %d\n", );
+	ft_printf("***Print char: %c\n", );
+
+
+
